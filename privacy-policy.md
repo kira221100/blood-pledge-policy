@@ -41,3 +41,7 @@ We may update this Privacy Policy periodically. You are advised to review this p
 Contact Us
 If you have any questions or suggestions about our Privacy Policy, please feel free to contact us.
 Email: [bilal@greenwichandburki.dev] or [aatir@greenwichandburki.dev]
+
+Account Deletion Request
+If you would like to request the deletion of your account and associated data, please contact us at:
+Email: [bilal@greenwichandburki.dev]
